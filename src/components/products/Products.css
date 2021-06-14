@@ -1,13 +1,14 @@
-.locationList {
+.productList {
     display: flex;
     justify-content: space-between;
+
 }
 
-.locationHeader {
+.productHeader {
     text-align: center;
 }
 
-.locationListItem {
+.productListItem {
     flex-basis: 30%;
     border: 2px solid blue;
     padding: 2rem;
